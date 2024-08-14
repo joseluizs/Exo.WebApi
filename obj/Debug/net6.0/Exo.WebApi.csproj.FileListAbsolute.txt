@@ -812,3 +812,4 @@ D:\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\scopedcss\b
 D:\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.csproj.Up2Date
 D:\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 D:\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+D:\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
