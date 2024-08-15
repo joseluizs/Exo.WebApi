@@ -78,7 +78,7 @@ namespace Exo.WebApi.Controllers
                     return NotFound("Projeto não encontrado!");
                 }
                 _projetoRepository.Deletar(id);
-                return StatusCode(201, "Projeto deletado com sucesso!");
+                return StatusCode(204, "Projeto deletado com sucesso!");
             }
             catch (Exception e)
             {
